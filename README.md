@@ -2,6 +2,8 @@
 
 **Project URL:** https://github.com/B0kkl/pharmaceutical-sales-data
 
+**Project Data Source:** https://roadmap.sh/projects/pharmaceutical-sales-data
+
 Exploratory analysis of daily pharmacy sales (Jan 2014 – Oct 2019) using **Python, Pandas and Matplotlib**.
 
 Dataset: [Pharma Sales Data on Kaggle](https://www.kaggle.com/milanzdravkovic/pharma-sales-data) (`salesdaily.csv`).
